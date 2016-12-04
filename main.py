@@ -9,7 +9,8 @@ def f3(seq):
 	return keys.keys()
 
 #filename = 'C:\\Users\\andrew.henze\\Documents\\GitHub\\JSONMapInfo\\JSON\\MMR_adm3.json'
-filename = 'C:\\Users\\andrew.henze\\Documents\\GitHub\\JSONMapInfo\\JSON\\MMR_adm3_pretty.json'
+#filename = 'C:\\Users\\andrew.henze\\Documents\\GitHub\\JSONMapInfo\\JSON\\MMR_adm3_pretty.json'
+filename = 'JSON/MMR_adm3_pretty.json'
 
 jsonpath = 'features.item.properties.NAME_1'
 
